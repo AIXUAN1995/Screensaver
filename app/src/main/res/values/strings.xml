@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Screensaver</string>
+    <string name="confirm_color">确定</string>
+    <string name="sample_text">示例文字</string>
+    <string name="preview">预览</string>
+    <string name="text_desc">内容</string>
+    <string name="text_speed_desc">速度</string>
+    <string name="text_size_desc">字号</string>
+    <string name="text_hint">输入要展示的文字</string>
+    <string name="text_speed_hint">文字滚动速度（px/s）</string>
+    <string name="text_size_hint">字号</string>
+    <string name="change_color">修改颜色</string>
+    <string-array name="part_array">
+        <item>文字</item>
+        <item>背景</item>
+    </string-array>
+</resources>
